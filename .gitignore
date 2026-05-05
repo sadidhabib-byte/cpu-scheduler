@@ -1,0 +1,26 @@
+# Build folders
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Binaries
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+*.ilk
+
+# Qt / IDE files
+*.user
+*.pro.user
+.qtcreator/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
